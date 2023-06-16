@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySimplePaint", "MySimplePaint\MySimplePaint.csproj", "{12FCC03D-E0EC-48BD-AE0B-1EA2F3155A9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12FCC03D-E0EC-48BD-AE0B-1EA2F3155A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FCC03D-E0EC-48BD-AE0B-1EA2F3155A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FCC03D-E0EC-48BD-AE0B-1EA2F3155A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FCC03D-E0EC-48BD-AE0B-1EA2F3155A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B52B9DD7-87B3-43C8-8755-D1DE88135110}
+	EndGlobalSection
+EndGlobal
